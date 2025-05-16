@@ -1,5 +1,3 @@
-package intro;
-
 public class Car {
     String color;
     int year;
